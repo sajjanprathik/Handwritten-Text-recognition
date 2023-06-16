@@ -18,6 +18,13 @@ Handwritten Text Recognition (HTR) system implemented with TensorFlow (TF) and t
 - --line_mode: train reading text lines instead of single words.
 - --img_file: image that is used for inference.
 - --dump: dumps the output of the NN to CSV file(s) saved in the dump folder. Can be used as input for the CTCDecoder.
+## python libraries
+- matplotlib==3.2.1
+- numpy==1.19.5
+- argparse
+- opencv-python==4.4.0.46
+- path==15.0.0
+- tensorflow==2.4.0
 ## References
 
  - [Build a Handwritten Text Recognition System using TensorFlow](https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5)
