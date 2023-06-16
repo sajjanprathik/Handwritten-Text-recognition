@@ -29,5 +29,3 @@ Handwritten Text Recognition (HTR) system implemented with TensorFlow (TF) and t
 
  - [Build a Handwritten Text Recognition System using TensorFlow](https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5)
  - [handwritten character recognition using Deep-Learning](https://drive.google.com/file/d/1uuJKOctH5TFTd6-zzjZ8akQNfkbmHmkm/view?usp=sharing)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
